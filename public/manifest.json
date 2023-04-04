@@ -1,18 +1,18 @@
 {
-  "name": "Hello World",
-  "description": "This is for testing",
+  "name": "Memilih Crypto",
+  "description": "Addons untuk memilih crypto secara acak",
   "version": "0.0.1",
   "manifest_version": 3,
   "action": {
     "default_popup": "index.html"
   },
   "icons": {
-    "128": "icon.png"
+    "128": "./IconParkOutlineBitcoin.svg"
   },
   "browser_specific_settings": {
     "gecko": {
       "strict_min_version": "91.1.0",
-      "id": "{uuid_masukkan_di_sini}"
+      "id": "{62a1e656-15c8-4ebf-a9b6-4ea76d129aa2}"
     }
   }
 }
