@@ -13,8 +13,8 @@
     word-wrap: break-word;
   }
   /* chrome extension */
-  :global(body) {
+  /* :global(body) {
     width: 350px;
     height: 545px;
-  }
+  } */
 </style>
